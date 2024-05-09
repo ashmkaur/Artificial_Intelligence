@@ -1,0 +1,1 @@
+# This repository contains all the Artificial Intelligence codes related to the Block World Problem (This is problem where we have to match the initial and final states as an AI agent would do) and 8 puzzle problem (Just as the conventional board problem)
